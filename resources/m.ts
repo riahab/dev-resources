@@ -270,4 +270,13 @@ export const resources: Resource[] = [
             'Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.',
         url: 'https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free',
     },
+    
+{
+    name: 'MarketStreak',
+    description:
+        'A premier web based financial research and analysis platform for asset managers and stock traders, tracking stocks across various metrics and crypto currency all in one place',
+    categories: ['Finance', 'Business Models'],
+    url: 'https://marketstreak.com',
+    keywords: ['Finance', 'Business Models', 'javascript', 'development'],
+},
 ]
